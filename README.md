@@ -1,6 +1,6 @@
 ### Wubba Lubba Dub Dub! 
 
-<img align="center" width="500px" src="https://i.imgur.com/HSabzc4.gif" />
+<img align="center" width="495px" src="https://i.imgur.com/HSabzc4.gif" />
 
 <br />
 
