@@ -1,10 +1,8 @@
 <img width="400px" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" />
 
-![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)
+[![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)](https://github.com/rudrOwO)
 
-
-#### Languages and Tools I Currently Use:
-
+#### :fire::fire: Languages and Tools I Use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="NeoVim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
@@ -17,4 +15,7 @@
 <!-- <img width="380px" height="190px" src="https://i.imgur.com/HSabzc4.gif" />
 
 ###### Wubba Lubba Dub Dub -->
+
+#### :fire::fire: Currently working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
 
