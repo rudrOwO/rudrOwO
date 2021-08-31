@@ -2,8 +2,10 @@
 
 [![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)](https://github.com/rudrOwO)
 
+<!--
 #### :rocket: Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
+-->
 
 #### :rocket: Languages and Tools I Use:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -14,7 +16,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
+<br />
 
-<!-- <img width="380px" height="190px" src="https://i.imgur.com/HSabzc4.gif" />
+<img width="380px" height="190px" src="https://i.imgur.com/HSabzc4.gif" />
 
-###### Wubba Lubba Dub Dub -->
+###### Wubba Lubba Dub Dub
