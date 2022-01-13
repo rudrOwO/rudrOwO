@@ -1,12 +1,13 @@
 <img width="400px" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" />
 
-#### I'm Rudro, currently an undergraduate Software Engineering student at University of Dhaka </li>
+#### :robot: I'm Rudro, currently an undergraduate Software Engineering student at University of Dhaka </li>
 <!--
 [![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)](https://github.com/rudrOwO)
 -->
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
-
+-->
 <!--
 #### :rocket: Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
