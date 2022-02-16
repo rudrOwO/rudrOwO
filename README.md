@@ -13,7 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
 -->
 
-#### :atom: Stuff I am familiar with:
+#### 🚀 Stuff I am familiar with:
 <img alt="Arch Linux" width="28px" src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/120px-Arch-linux-logo.png" />
 <img alt="Visual Studio Code" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" />
 &nbsp;
