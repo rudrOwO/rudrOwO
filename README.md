@@ -23,14 +23,16 @@
 &nbsp;
 <img alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 &nbsp;
-<img alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />
+<img alt="SFML" width="28px" src="https://www.sfml-dev.org/download/goodies/sfml-icon-big.png" />
 &nbsp;
-<img alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />
+<img alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />
 &nbsp;
 <img alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" />
 &nbsp;
 <img alt="CSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" />
 &nbsp;
 <img alt="p5.js" width="28px" src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png" />
+&nbsp;
+<img alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />
 &nbsp;
 </div>
