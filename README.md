@@ -1,7 +1,7 @@
 <div align="center">
-<img width="400px" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" />
+<!-- img width="400px" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" -->
 
-#### :robot: I'm Rudro, an undergraduate Software Engineering student at University of Dhaka </li>
+#### :robot: I'm an undergraduate Software Engineering student at University of Dhaka </li>
 <!--
 [![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)](https://github.com/rudrOwO)
 -->
@@ -12,7 +12,6 @@
 #### :rocket: Currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
 -->
-
 #### 🚀 Stuff I am familiar with:
 <img alt="Arch Linux" width="28px" src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/120px-Arch-linux-logo.png" />
 <img alt="Visual Studio Code" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" />
