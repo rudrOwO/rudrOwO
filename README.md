@@ -30,11 +30,11 @@
 &nbsp;
 <img alt="CSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" />
 &nbsp;
-<img alt="PHP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png?20160423214552" />
-&nbsp;
 <img alt="React.js" width="30px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />
 &nbsp;
-<img alt="Angula.js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png?20160527092314" />
+<img alt="NativeBase" width="30px" src="https://bestofjs.org/logos/nativebase.dark.svg" />
+&nbsp;
+<img alt="FireBase" width="30px" src="https://i.pinimg.com/564x/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.jpg" />
 &nbsp;
 <img alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />
 &nbsp;
