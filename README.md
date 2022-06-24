@@ -13,29 +13,30 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
 -->
 #### 🚀 Stuff I am familiar with:
-<img alt="Arch Linux" width="28px" src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/120px-Arch-linux-logo.png" />
-<img alt="Visual Studio Code" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" />
+[<img title="Arch Linux" alt="Arch Linux" width="28px" src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/120px-Arch-linux-logo.png" />](https://archlinux.org/)
 &nbsp;
-<img alt="NeoVim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
+[<img title="Visual Studio Code" alt="Visual Studio Code" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" />](https://code.visualstudio.com/)
 &nbsp;
-<img alt="Terminal" width="28px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/terminal-icon.png" />
+[<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
 &nbsp;
-<img alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+[<img title="Terminal" alt="Terminal" width="28px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/terminal-icon.png" />](https://alacritty.org/)
 &nbsp;
-<img alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />
+[<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;
-<img alt="TypeScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" />
+[<img title="JavaScript" alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
-<img alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" />
+[<img title="TypeScript" alt="TypeScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" />](https://www.typescriptlang.org/)
 &nbsp;
-<img alt="CSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" />
+[<img title="HTML5" alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;
-<img alt="React.js" width="30px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />
+[<img title="CSS" alt="CSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;
-<img alt="NativeBase" width="30px" src="https://bestofjs.org/logos/nativebase.dark.svg" />
+[<img title="React.js" alt="React.js" width="30px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />](https://reactjs.org/)
 &nbsp;
-<img alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />
+[<img title="NativeBase" alt="NativeBase" width="30px" src="https://bestofjs.org/logos/nativebase.dark.svg" />](https://nativebase.io/)
 &nbsp;
-<img alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />
+[<img title="FireBase" alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />](https://firebase.google.com/)
+&nbsp;
+[<img title="Python" alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />](https://www.python.org/)
 &nbsp;
 </div>
