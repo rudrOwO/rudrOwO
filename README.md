@@ -34,7 +34,7 @@
 &nbsp;
 <img alt="NativeBase" width="30px" src="https://bestofjs.org/logos/nativebase.dark.svg" />
 &nbsp;
-<img alt="FireBase" width="30px" src="https://i.pinimg.com/564x/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.jpg" />
+<img alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />
 &nbsp;
 <img alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />
 &nbsp;
