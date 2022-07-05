@@ -25,6 +25,8 @@
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;
+[<img title="Python" alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />](https://www.python.org/)
+&nbsp;
 [<img title="JavaScript" alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
 [<img title="TypeScript" alt="TypeScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" />](https://www.typescriptlang.org/)
@@ -39,10 +41,8 @@
 &nbsp;
 [<img title="NativeBase" alt="NativeBase" width="30px" src="https://bestofjs.org/logos/nativebase.dark.svg" />](https://nativebase.io/)
 &nbsp;
-[<img title="NodeJs" alt="NodeJS" width="30px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
+[<img title="Node.js" alt="Node.js" width="30px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
 &nbsp;
 [<img title="FireBase" alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />](https://firebase.google.com/)
-&nbsp;
-[<img title="Python" alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />](https://www.python.org/)
 &nbsp;
 </div>
