@@ -19,7 +19,9 @@
 &nbsp;
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
 &nbsp;
-[<img title="Terminal" alt="Terminal" width="28px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/terminal-icon.png" />](https://alacritty.org/)
+[<img title="Z-Shell" alt="Z-Shell" width="28px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/terminal-icon.png" />](https://en.wikipedia.org/wiki/Z_shell)
+&nbsp;
+[<img title="Git" alt="Z-Shell" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;
@@ -33,7 +35,11 @@
 &nbsp;
 [<img title="React.js" alt="React.js" width="30px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />](https://reactjs.org/)
 &nbsp;
+[<img title="Chakra-UI" alt="Chakra-UI" width="30px" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS" />](https://chakra-ui.com)
+&nbsp;
 [<img title="NativeBase" alt="NativeBase" width="30px" src="https://bestofjs.org/logos/nativebase.dark.svg" />](https://nativebase.io/)
+&nbsp;
+[<img title="NodeJs" alt="NodeJS" width="30px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
 &nbsp;
 [<img title="FireBase" alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />](https://firebase.google.com/)
 &nbsp;
