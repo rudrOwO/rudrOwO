@@ -43,10 +43,11 @@
 &nbsp;
 [<img title="Node.js" alt="Node.js" width="30px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
 &nbsp;
+[<img title="MongoDB" alt="MongoDB" width="30px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />](https://www.mongodb.com/)
+&nbsp;
+</div>
 <!--
 [<img title="FireBase" alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />](https://firebase.google.com/)
 &nbsp;
 -->
-[<img title="MongoDB" alt="MongoDB" width="30px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />](https://www.mongodb.com/)
-&nbsp;
-</div>
+
