@@ -25,7 +25,7 @@
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;
-[<img title="Python" alt="Python" width="28px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />](https://www.python.org/)
+[<img title="Go" alt="Go" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041" />](https://go.dev/)
 &nbsp;
 [<img title="JavaScript" alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
@@ -35,15 +35,13 @@
 &nbsp;
 [<img title="CSS" alt="CSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;
-[<img title="React.js" alt="React.js" width="30px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />](https://reactjs.org/)
+[<img title="React" alt="React" width="30px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />](https://reactjs.org/)
 &nbsp;
-[<img title="Chakra-UI" alt="Chakra-UI" width="30px" src="https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS" />](https://chakra-ui.com)
-&nbsp;
-[<img title="NativeBase" alt="NativeBase" width="30px" src="https://bestofjs.org/logos/nativebase.dark.svg" />](https://nativebase.io/)
-&nbsp;
-[<img title="Node.js" alt="Node.js" width="30px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
+[<img title="React Native" alt="React Native" width="30px" src="https://pagepro.co/static/img/react-native-40f97c1acb.svg" />](https://reactnative.dev/)
 &nbsp;
 [<img title="MongoDB" alt="MongoDB" width="30px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />](https://www.mongodb.com/)
+&nbsp;
+[<img title="Node.js" alt="Node.js" width="30px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
 &nbsp;
 </div>
 <!--
