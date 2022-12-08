@@ -28,6 +28,8 @@
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;
+[<img title="C#" alt="C#" width="28px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+&nbsp;
 [<img title="Go" alt="Go" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041" />](https://go.dev/)
 &nbsp;
 [<img title="JavaScript" alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -44,9 +46,13 @@
 &nbsp;
 [<img title="React Native" alt="React Native" width="32px" src="https://pagepro.co/static/img/react-native-40f97c1acb.svg" />](https://reactnative.dev/)
 &nbsp;
+<!--
 [<img title="NEXT.js" alt="Next.js" width="32px" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />](https://nextjs.org/)
 &nbsp;
+-->
 [<img title="Node.js" alt="Node.js" width="28px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
+&nbsp;
+[<img title=".NET" alt=".NET" width="28px" src="https://raw.githubusercontent.com/dotnet/brand/29878855347e055ff15675471f7043fda3e92cea/logo/dotnet-logo.svg" />](https://dotnet.microsoft.com/en-us/)
 &nbsp;
 [<img title="MongoDB" alt="MongoDB" width="30px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />](https://www.mongodb.com/)
 &nbsp;
