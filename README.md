@@ -53,9 +53,7 @@
 [<img title="Docker" alt="Docker" width="42px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />](https://docker.com)
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
-  <img src="https://gifdb.com/images/high/rick-and-morty-run-the-jewels-41vqa88b3f85wpa3.webp" height="165px" />
+    <img src="https://gifdb.com/images/high/rick-and-morty-run-the-jewels-41vqa88b3f85wpa3.webp" height="165px" />
 </div>
 </div>
 <!--
