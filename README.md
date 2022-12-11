@@ -16,8 +16,6 @@
 
 #### 🚀 Stuff I am familiar with:
 
-[<img title="Arch Linux" alt="Arch Linux" width="28px" src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/120px-Arch-linux-logo.png" />](https://archlinux.org/)
-&nbsp;
 [<img title="Visual Studio Code" alt="Visual Studio Code" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" />](https://code.visualstudio.com/)
 &nbsp;
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
