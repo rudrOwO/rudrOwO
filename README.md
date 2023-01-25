@@ -43,8 +43,6 @@
 &nbsp;
 [<img title="React Native" alt="React Native" width="32px" src="https://pagepro.co/static/img/react-native-40f97c1acb.svg" />](https://reactnative.dev/)
 &nbsp;
-[<img title="Electron" alt="Electron Framework" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" />](https://electronjs.org)
-&nbsp;
 [<img title="Node.js" alt="Node.js" width="28px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
 &nbsp;
 [<img title="NEXT.js" alt="Next.js" width="32px" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />](https://nextjs.org/)
@@ -55,9 +53,6 @@
 &nbsp;
 [<img title="Docker" alt="Docker" width="42px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />](https://docker.com)
 &nbsp;
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
 
