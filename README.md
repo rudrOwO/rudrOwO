@@ -17,10 +17,6 @@
 &nbsp;
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
 &nbsp;
-[<img title="Z-Shell" alt="Z-Shell" width="28px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/terminal-icon.png" />](https://en.wikipedia.org/wiki/Z_shell)
-&nbsp;
-[<img title="PowerShell" alt="PowerShell" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />](https://en.wikipedia.org/wiki/PowerShell)
-&nbsp;
 [<img title="Git" alt="Z-Shell" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
