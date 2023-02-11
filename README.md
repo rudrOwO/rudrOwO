@@ -1,6 +1,3 @@
-<div align="center">
-<img width="400px" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif"/>
-
 #### I'm an undergraduate Software Engineering student at University of Dhaka </li>
 
 <!--
