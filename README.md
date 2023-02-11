@@ -1,3 +1,5 @@
+<div align="center">
+    
 #### I'm an undergraduate Software Engineering student at University of Dhaka </li>
 
 <!--
@@ -47,14 +49,13 @@
 [<img title="Docker" alt="Docker" width="42px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />](https://docker.com)
 &nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
 
 <!--
-<div align="center">
-    <img src="https://gifdb.com/images/high/rick-and-morty-run-the-jewels-41vqa88b3f85wpa3.webp" height="165px" />
-</div>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
+
+<img src="https://gifdb.com/images/high/rick-and-morty-run-the-jewels-41vqa88b3f85wpa3.webp" height="165px" />
 
 [<img title="FireBase" alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />](https://firebase.google.com/)
 &nbsp;
 -->
+</div>
