@@ -42,7 +42,7 @@
 &nbsp;
 [<img title="Solid.js" alt="Solid.js" width="32px" src="https://www.solidjs.com/assets/logo-123b04bc.svg" />](https://www.solidjs.com/)
 &nbsp;
-[<img title="Astro" alt="Astro" width="30px" height="28px" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" />](https://astro.build/)
+[<img title="Astro" alt="Astro" width="30px" height="30px" src="https://images.opencollective.com/astrodotbuild/b264925/logo/256.png" />](https://astro.build/)
 &nbsp;
 [<img title="ASP.NET" alt="ASP.NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/en-us/apps/aspnet)
 &nbsp;
@@ -55,9 +55,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
 <img src="https://gifdb.com/images/high/rick-and-morty-run-the-jewels-41vqa88b3f85wpa3.webp" height="165px" />
-
-<!--
-[<img title="FireBase" alt="FireBase" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-goog/events/touchicon-180_rgkmHFY.png" />](https://firebase.google.com/)
-&nbsp;
--->
 </div>
