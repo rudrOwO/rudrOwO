@@ -42,7 +42,7 @@
 &nbsp;
 [<img title="Solid.js" alt="Solid.js" width="32px" src="https://www.solidjs.com/assets/logo-123b04bc.svg" />](https://www.solidjs.com/)
 &nbsp;
-[<img title="Astro" alt="Astro" width="28px" height="28px" src="https://astro.build/assets/press/astro-icon-light.svg" />](https://astro.build/)
+[<img title="Astro" alt="Astro" width="30px" height="28px" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png" />](https://astro.build/)
 &nbsp;
 [<img title="ASP.NET" alt="ASP.NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/en-us/apps/aspnet)
 &nbsp;
