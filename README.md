@@ -12,8 +12,6 @@
 
 #### 🚀 Stuff I am familiar with:
 
-[<img title="Visual Studio Code" alt="Visual Studio Code" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" />](https://code.visualstudio.com/)
-&nbsp;
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
 &nbsp;
 [<img title="Git" alt="Z-Shell" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)
@@ -32,7 +30,7 @@
 &nbsp;
 [<img title="CSS" alt="CSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;
-[<img title="Tailwind CSS" alt="Tailwind CSS" width="36px" height="28px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />](https://tailwindcss.com/)
+[<img title="Tailwind CSS" alt="Tailwind CSS" width="36px" height="28px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" />](https://tailwindcss.com/)
 &nbsp;
 [<img title="React" alt="React" width="32px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />](https://reactjs.org/)
 &nbsp;
