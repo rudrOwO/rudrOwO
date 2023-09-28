@@ -1,6 +1,6 @@
 <div align="center">
     
-#### I'm an undergraduate Software Engineering student at University of Dhaka </li>
+#### I'm an undergraduate Software Engineering student at University of Dhaka
 
 <!--
 [![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)](https://github.com/rudrOwO)
@@ -53,5 +53,5 @@
 &nbsp;
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
-<img src="https://gifdb.com/images/high/rick-and-morty-run-the-jewels-41vqa88b3f85wpa3.webp" height="165px" />
+[<img src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" height="165px" title="One must imagine Sisyphus happy" alt="Sisyphus" />](https://www.youtube.com/watch?v=q4pDUxth5fQ)
 </div>
