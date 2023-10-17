@@ -52,6 +52,6 @@
 [<img title="Astro" alt="Astro" width="30px" height="30px" src="https://images.opencollective.com/astrodotbuild/b264925/logo/256.png" />](https://astro.build/)
 &nbsp;
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=Shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=shell,jupyter%20notebook)
 [<img src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" height="165px" title="One must imagine Sisyphus happy" alt="Sisyphus" />](https://www.youtube.com/watch?v=q4pDUxth5fQ)
 </div>
