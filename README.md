@@ -10,6 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
 -->
 
+#### I also happen to know some Software Development.
 #### Stuff I am familiar with: 🚀
 
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
