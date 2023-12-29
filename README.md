@@ -1,6 +1,6 @@
 <div align="center">
     
-#### Hi, I am [Rudro. :octocat:](https://rudro.me)
+### Hi, I am [Rudro. :octocat:](https://rudro.me)
 
 <!--
 [![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)](https://github.com/rudrOwO)
@@ -10,8 +10,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=rudrOwO&repo=SPL-1&show_icons=true&theme=gotham)](https://github.com/rudrOwO/SPL-1)
 -->
 
-#### I happen to know some Software Development. 🪄
-#### Stuff I am familiar with: 🚀
+#### I happen to know some Software Development. ✨
+#### Stuff I am familiar with:
 
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
 &nbsp;
