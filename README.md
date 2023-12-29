@@ -1,6 +1,6 @@
 <div align="center">
     
-#### Hi, I am Rudro. :octocat:
+#### Hi, I am [Rudro. :octocat:](https://rudro.me)
 
 <!--
 [![rudrOwO's github stats](https://github-readme-stats.vercel.app/api?username=rudrOwO&show_icons=true&theme=gotham&hide=contribs)](https://github.com/rudrOwO)
