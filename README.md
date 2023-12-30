@@ -19,7 +19,7 @@
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
 &nbsp;
-[<img title="C#" alt="C#" width="28px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img title="C#" alt="C#" width="28px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 &nbsp;
 [<img title="Go" alt="Go" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041" />](https://go.dev/)
 &nbsp;
@@ -41,8 +41,6 @@
 &nbsp;
 [<img title="NEXT.js" alt="Next.js" width="32px" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />](https://nextjs.org/)
 &nbsp;
-[<img title="Astro" alt="Astro" width="32px" height="32px" src="https://images.opencollective.com/astrodotbuild/b264925/logo/256.png" />](https://astro.build/)
-&nbsp;
 [<img title="ASP.NET" alt="ASP.NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/en-us/apps/aspnet)
 &nbsp;
 [<img title="Node.js" alt="Node.js" width="28px" src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-vector.svg" />](https://nodejs.org)
@@ -52,7 +50,14 @@
 [<img title="Docker" alt="Docker" width="42px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />](https://docker.com)
 &nbsp;
 [<img title="LangChain" alt="LangChain" width="32px" height="30px" src="https://images.emojiterra.com/google/android-11/512px/1f99c.png" />](https://js.langchain.com)
-
+<!--
+[<img title="Lua" alt="Lua" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />](https://www.lua.org/)
+&nbsp;
+-->
+<!--
+[<img title="Astro" alt="Astro" width="32px" height="32px" src="https://images.opencollective.com/astrodotbuild/b264925/logo/256.png" />](https://astro.build/)
+&nbsp;
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=shell,jupyter%20notebook)
 [<img src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" height="165px" width="250px" title="One must imagine Sisyphus happy" alt="Sisyphus" />](https://www.youtube.com/watch?v=q4pDUxth5fQ)
 
