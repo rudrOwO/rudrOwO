@@ -31,15 +31,17 @@
 &nbsp;
 [<img title="CSS" alt="CSS" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;
-[<img title="Tailwind CSS" alt="Tailwind CSS" width="36px" height="28px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" />](https://tailwindcss.com/)
+[<img title="Tailwind CSS" alt="Tailwind CSS" width="36px" height="30px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" />](https://tailwindcss.com/)
 &nbsp;
-[<img title="React" alt="React" width="32px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" />](https://reactjs.org/)
+[<img title="React" alt="React" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/768px-React_Logo_SVG.svg.png" />](https://react.dev/)
 &nbsp;
 [<img title="React Native" alt="React Native" width="32px" src="https://pagepro.co/blog/wp-content/webp-express/webp-images/uploads/2020/07/react-native-40f97c1acb-300x270.png.webp" />](https://reactnative.dev/)
 &nbsp;
 [<img title="Solid.js" alt="Solid.js" width="32px" src="https://www.solidjs.com/assets/logo-123b04bc.svg" />](https://www.solidjs.com/)
 &nbsp;
 [<img title="NEXT.js" alt="Next.js" width="32px" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />](https://nextjs.org/)
+&nbsp;
+[<img title="Astro" alt="Astro" width="32px" height="32px" src="https://images.opencollective.com/astrodotbuild/b264925/logo/256.png" />](https://astro.build/)
 &nbsp;
 [<img title="ASP.NET" alt="ASP.NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/en-us/apps/aspnet)
 &nbsp;
@@ -49,10 +51,9 @@
 &nbsp;
 [<img title="Docker" alt="Docker" width="42px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />](https://docker.com)
 &nbsp;
-<!--
-[<img title="Astro" alt="Astro" width="30px" height="30px" src="https://images.opencollective.com/astrodotbuild/b264925/logo/256.png" />](https://astro.build/)
-&nbsp;
--->
+[<img title="LangChain" alt="LangChain" width="32px" height="30px" src="https://images.emojiterra.com/google/android-11/512px/1f99c.png" />](https://js.langchain.com)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=shell,jupyter%20notebook)
 [<img src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" height="165px" width="250px" title="One must imagine Sisyphus happy" alt="Sisyphus" />](https://www.youtube.com/watch?v=q4pDUxth5fQ)
+
 </div>
