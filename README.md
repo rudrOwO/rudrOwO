@@ -23,7 +23,7 @@
 &nbsp;
 [<img title="Go" alt="Go" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041" />](https://go.dev/)
 &nbsp;
-[<img title="JavaScript" alt="JavaScript" width="28px" src="https://camo.githubusercontent.com/91228d257e95671becc33c70fc337100a6cc0aebaa01d1a75377eb55374563d0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6a6176617363726970742d323735323134382d323238343936352e706e67" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img title="JavaScript" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
 [<img title="TypeScript" alt="TypeScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343" />](https://www.typescriptlang.org/)
 &nbsp;
@@ -39,7 +39,7 @@
 &nbsp;
 [<img title="Solid.js" alt="Solid.js" width="32px" src="https://www.solidjs.com/assets/logo-123b04bc.svg" />](https://www.solidjs.com/)
 &nbsp;
-[<img title="NEXT.js" alt="Next.js" width="32px" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />](https://nextjs.org/)
+[<img title="NEXT.js" alt="Next.js" width="32px" src="https://nextjs.org/favicon.ico" />](https://nextjs.org/)
 &nbsp;
 [<img title="ASP.NET" alt="ASP.NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" />](https://dotnet.microsoft.com/en-us/apps/aspnet)
 &nbsp;
@@ -49,7 +49,10 @@
 &nbsp;
 [<img title="Docker" alt="Docker" width="42px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />](https://docker.com)
 &nbsp;
+[<img title="Jenkins" alt="Jenkins" width="28px" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" />](https://www.jenkins.io/)
+&nbsp;
 [<img title="LangChain" alt="LangChain" width="32px" height="30px" src="https://images.emojiterra.com/google/android-11/512px/1f99c.png" />](https://js.langchain.com)
+&nbsp;
 <!--
 [<img title="Lua" alt="Lua" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />](https://www.lua.org/)
 &nbsp;
