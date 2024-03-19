@@ -63,5 +63,6 @@
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrOwO&layout=compact&theme=gotham&hide=shell,jupyter%20notebook)
 [<img src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" height="165px" width="250px" title="One must imagine Sisyphus happy" alt="Sisyphus" />](https://www.youtube.com/watch?v=q4pDUxth5fQ)
-
+<br>
+<a target="_blank" href="https://www.artstation.com/artwork/PX4Omr">Profile Picture</a>
 </div>
