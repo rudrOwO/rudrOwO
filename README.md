@@ -37,7 +37,7 @@
 &nbsp;
 [<img title="React Native" alt="React Native" width="32px" src="https://pagepro.co/blog/wp-content/webp-express/webp-images/uploads/2020/07/react-native-40f97c1acb-300x270.png.webp" />](https://reactnative.dev/)
 &nbsp;
-[<img title="Solid.js" alt="Solid.js" width="32px" src="https://www.solidjs.com/assets/logo-123b04bc.svg" />](https://www.solidjs.com/)
+[<img title="Solid.js" alt="Solid.js" width="32px" src="https://avatars.githubusercontent.com/u/79226042?s=48&v=4" />](https://www.solidjs.com/)
 &nbsp;
 [<img title="NEXT.js" alt="Next.js" width="32px" src="https://nextjs.org/favicon.ico" />](https://nextjs.org/)
 &nbsp;
@@ -53,10 +53,6 @@
 &nbsp;
 [<img title="LangChain" alt="LangChain" width="32px" height="30px" src="https://images.emojiterra.com/google/android-11/512px/1f99c.png" />](https://js.langchain.com)
 &nbsp;
-<!--
-[<img title="Lua" alt="Lua" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />](https://www.lua.org/)
-&nbsp;
--->
 <!--
 [<img title="Astro" alt="Astro" width="32px" height="32px" src="https://images.opencollective.com/astrodotbuild/b264925/logo/256.png" />](https://astro.build/)
 &nbsp;
