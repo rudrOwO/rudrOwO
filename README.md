@@ -15,6 +15,8 @@
 
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
 &nbsp;
+[<img title="Zellij" alt="Zellij" width="28px" src="https://zellij.dev/img/logo.png" />](https://zellij.dev/)
+&nbsp;
 [<img title="Git" alt="Z-Shell" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
