@@ -63,5 +63,4 @@
 [<img src="https://i.giphy.com/media/fBDHRZj2BPDcu9yFBj/giphy.webp" height="165px" width="250px" title="One must imagine Sisyphus happy" alt="Sisyphus" />](https://www.youtube.com/watch?v=q4pDUxth5fQ)
 <br/>
 <br/>
-<a target="_blank" href="https://www.youtube.com/watch?v=eMTDAHK-tkE">About the profile picture</a>
 </div>
