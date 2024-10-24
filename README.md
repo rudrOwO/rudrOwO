@@ -15,8 +15,6 @@
 
 [<img title="Neovim" alt="Neovim" width="28px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />](https://neovim.io/)
 &nbsp;
-[<img title="Zellij" alt="Zellij" width="28px" src="https://zellij.dev/img/logo.png" />](https://zellij.dev/)
-&nbsp;
 [<img title="Git" alt="Z-Shell" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)
 &nbsp;
 [<img title="C++" alt="C++" width="28px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -24,6 +22,8 @@
 [<img title="C#" alt="C#" width="28px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 &nbsp;
 [<img title="Go" alt="Go" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041" />](https://go.dev/)
+&nbsp;
+[<img title="Lua" alt="Lua" width="28px" src="https://lua.org/images/logo.gif" />](https://lua.org)
 &nbsp;
 [<img title="JavaScript" alt="JavaScript" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
